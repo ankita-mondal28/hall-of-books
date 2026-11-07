@@ -1,0 +1,12 @@
+# local settings (contains the database password)
+app/config.php
+
+# uploads and logs
+public/uploads/
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
